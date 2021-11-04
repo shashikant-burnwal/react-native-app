@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
   },
 
   list: {
-    flexGrow: 1,
+    flexGrow: 1, //to show top item on list visibly good
     //alignItems: 'center',
     justifyContent: 'flex-end',
   },
